@@ -1,1 +1,1 @@
-# ui-ux-final
+# This is my project for the ui/ux course. The main purpose of the application is to help people with the choice of cruise travel. I have added a feed here for travelers so that they can share their impressions and help people with choosing a cruise. There is an analog of my application on the market, but I tried to do it in the narrow field of travel. A lot of people ignore cruise travel. I hope in the future a lot of people will travel on ships.
